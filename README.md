@@ -4,7 +4,7 @@ This project is a major step up from command-line applications. It's a fully fun
 
 This demonstrates the ability to build user-friendly, interactive tools and introduces the core concept of event-driven programming.
 
-## 🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated 
 
 GUI Development: Using the Tkinter library to build a complete graphical interface.
 
